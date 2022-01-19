@@ -1,4 +1,4 @@
-### Hi, I'm Myrat92 👋
+### Hi, I'm Myrat 👋
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=myrat92&show_icons=true&theme=bear" width = 400>
